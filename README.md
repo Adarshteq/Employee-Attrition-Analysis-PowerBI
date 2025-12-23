@@ -1,4 +1,4 @@
-## 🧑‍💼 Employee Attrition Analysis
+## 🧑‍💼 Employee Attrition Analysis -- PowerBI
 
 This repository contains a comprehensive data analytics project focused on **Employee Attrition** using HR datasets. 
 
